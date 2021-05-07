@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## v0.2.0 (2021-05-07)
+
+### Others
+
+- refactor: move format related to format files (2021-05-07)
+
+- build: go mod tidy (2021-05-07)
+
+- chore: add gitignore (2021-04-17)
+
+- chore(changelog): generate v0.1.0 (2021-04-15)
+
 ## v0.1.0 (2021-4-15)
 
 ### Added
