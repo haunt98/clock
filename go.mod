@@ -1,4 +1,4 @@
-module github.com/haunt98/clock
+module github.com/haunt98/clock-go
 
 go 1.17
 
