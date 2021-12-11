@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## v0.3.0 (2021-12-11)
+
+### Others
+
+- chore: update README with badges (2021-12-11)
+
+- chore: add prefix -go to module name (2021-12-11)
+
+- chore: bump go v1.17 (2021-12-11)
+
+- chore(changelog): generate v0.2.0 (2021-05-07)
+
 ## v0.2.0 (2021-05-07)
 
 ### Others
